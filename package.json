@@ -1,0 +1,19 @@
+{
+  "name": "prueba_npm",
+  "version": "0.0.1",
+  "description": "Sólo una prueba de npm",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "no test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no git repo"
+  },
+  "author": "vrsa9208",
+  "license": "ISC"
+}
